@@ -1,6 +1,6 @@
 # Lil-Twinkle
 
-##
+
 <!-- ABSTRACT OF THE PROJECT -->
             Lil Twinkle is a mobile application which can be used to detect learning disabilities in children and provide further assistance in their treatment. Children in the age of 4-6 have mainly three types of learning disabilities. They are :
                   Dyslexia-Disability to identify letters
